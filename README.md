@@ -8,6 +8,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 <details>
 
 <summary>General Skills</summary>
+
 |Challenge|Points|
 |---------|------|
 
@@ -16,6 +17,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 <details>
 
 <summary>Web Exploitation</summary>
+
 |Challenge|Points|
 |---------|------|
 
@@ -24,6 +26,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 <details>
 
 <summary>Cryptography</summary>
+
 |Challenge|Points|
 |---------|------|
 
@@ -32,6 +35,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 <details>
 
 <summary>Reverse Engineering</summary>
+
 |Challenge|Points|
 |---------|------|
 
@@ -40,6 +44,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 <details>
 
 <summary>Forensics</summary>
+
 |Challenge|Points|
 |---------|------|
 
@@ -48,6 +53,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 <details>
 
 <summary>Binary Exploitation</summary>
+
 |Challenge|Points|
 |---------|------|
 

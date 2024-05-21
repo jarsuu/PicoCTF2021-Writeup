@@ -35,6 +35,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 |Challenge|Points|
 |---------|------|
 |[Mod 26](./Cryptography/Mod%2026/)|10|
+|[Mind your Ps and Qs](./Cryptography/Mind%20your%20Ps%20and%20Qs/)|20|
 
 </details>
 

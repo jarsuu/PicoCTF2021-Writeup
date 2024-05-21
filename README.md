@@ -13,6 +13,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 |---------|------|
 |[Obedient Cat](./General%20Skills/Obedient%20Cat/)|5|
 |[Python Wrangling](./General%20Skills/Python%20Wrangling/)|10|
+|[Wave a flag](./General%20Skills/Wave%20a%20flag/)|10|
 
 </details>
 

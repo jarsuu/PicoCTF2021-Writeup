@@ -62,5 +62,6 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 
 |Challenge|Points|
 |---------|------|
+|[Stonks](./Binary%20Exploitation/Stonks/)|20|
 
 </details>

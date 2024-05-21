@@ -24,6 +24,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 
 |Challenge|Points|
 |---------|------|
+|[GET aHEAD](./Web%20Exploitation/GET%20aHEAD/)|20|
 
 </details>
 

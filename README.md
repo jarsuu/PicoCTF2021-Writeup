@@ -51,6 +51,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 
 |Challenge|Points|
 |---------|------|
+|[information](./Forensics/information/)|10|
 
 </details>
 

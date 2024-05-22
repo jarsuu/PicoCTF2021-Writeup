@@ -47,6 +47,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 
 |Challenge|Points|
 |---------|------|
+|[Transformation](./Reverse%20Engineering/Transformation/)|20|
 
 </details>
 

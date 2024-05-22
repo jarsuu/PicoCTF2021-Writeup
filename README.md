@@ -15,6 +15,7 @@ All the PicoCTF 2021 challenges are located at [picoGym](https://play.picoctf.or
 |[Python Wrangling](./General%20Skills/Python%20Wrangling/)|10|
 |[Wave a flag](./General%20Skills/Wave%20a%20flag/)|10|
 |[Nice netcat...](./General%20Skills/Nice%20netcat.../)|15|
+|[Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise/)|20|
 
 </details>
 

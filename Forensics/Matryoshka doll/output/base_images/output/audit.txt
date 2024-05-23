@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu May 23 21:02:34 2024
+Invocation: foremost 2_c.jpg 
+Output directory: /home/jarson/PicoCTF2021-Writeup/Forensics/Matryoshka doll/output/base_images/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 2_c.jpg
+Start: Thu May 23 21:02:34 2024
+Length: 374 KB (383936 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000366.zip 	     191 KB 	     187707 	 
+1:	00000000.png 	     183 KB 	          0 	  (526 x 1106)
+Finish: Thu May 23 21:02:34 2024
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu May 23 21:02:34 2024
